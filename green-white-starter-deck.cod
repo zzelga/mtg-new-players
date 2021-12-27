@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green/White</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" name="Plains"/>
+        <card number="2" name="Captain's Call"/>
+        <card number="1" name="Blightsoil Druid"/>
+        <card number="1" name="Kite Shield"/>
+        <card number="3" name="Timberland Guide"/>
+        <card number="3" name="Borderland Ranger"/>
+        <card number="1" name="Knight Watch"/>
+        <card number="3" name="Attended Knight"/>
+        <card number="1" name="Fencing Ace"/>
+        <card number="2" name="Infantry Veteran"/>
+        <card number="1" name="Greatsword"/>
+        <card number="2" name="Ranger's Guile"/>
+        <card number="7" name="Forest"/>
+        <card number="2" name="Veteran Armorer"/>
+        <card number="1" name="Trophy Hunter"/>
+    </zone>
+</cockatrice_deck>
