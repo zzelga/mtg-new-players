@@ -27,11 +27,11 @@ Now we need to load up some deck lists.
 
 This is a collection of several decks that I sourced online from an old Reddit post.
 
-[Blue/Black](https://scryfall.com/@whiskywizard/decks/8834b335-b849-412e-849b-3ebdb060785b?as=visual&with=usd)
-[Black/Red](https://scryfall.com/@whiskywizard/decks/dd68e29e-80ce-4144-a11a-054f8e8e1035?as=visual&with=usd)
-[Red/Green](https://scryfall.com/@whiskywizard/decks/488a979c-aa59-4cd7-92bf-9b3d0b5fd25d?as=visual&with=usd)
-[Green/White](https://scryfall.com/@whiskywizard/decks/26369b2f-d1d5-47f6-abb2-9be1d185a2f2?as=visual&with=usd)
-[White/Blue](https://scryfall.com/@whiskywizard/decks/cfff0079-2dd5-40d7-b06e-8e283dbe3d67?as=visual&with=usd)
+- [Blue/Black](https://scryfall.com/@whiskywizard/decks/8834b335-b849-412e-849b-3ebdb060785b?as=visual&with=usd)
+- [Black/Red](https://scryfall.com/@whiskywizard/decks/dd68e29e-80ce-4144-a11a-054f8e8e1035?as=visual&with=usd)
+- [Red/Green](https://scryfall.com/@whiskywizard/decks/488a979c-aa59-4cd7-92bf-9b3d0b5fd25d?as=visual&with=usd)
+- [Green/White](https://scryfall.com/@whiskywizard/decks/26369b2f-d1d5-47f6-abb2-9be1d185a2f2?as=visual&with=usd)
+- [White/Blue](https://scryfall.com/@whiskywizard/decks/cfff0079-2dd5-40d7-b06e-8e283dbe3d67?as=visual&with=usd)
 
 For each of these, the link will take you to a decklist on [Scryfall.com](https://scryfall.com/) where you will be able to view what cards make up the deck.
 Each of these has an associated `.cod` file in this repo that is ready for import into the `Cockatrice` application.
