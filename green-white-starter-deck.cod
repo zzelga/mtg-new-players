@@ -5,13 +5,12 @@
     <zone name="main">
         <card number="10" name="Plains"/>
         <card number="2" name="Captain's Call"/>
-        <card number="1" name="Blightsoil Druid"/>
         <card number="1" name="Kite Shield"/>
         <card number="3" name="Timberland Guide"/>
         <card number="3" name="Borderland Ranger"/>
         <card number="1" name="Knight Watch"/>
         <card number="3" name="Attended Knight"/>
-        <card number="1" name="Fencing Ace"/>
+        <card number="2" name="Fencing Ace"/>
         <card number="2" name="Infantry Veteran"/>
         <card number="1" name="Greatsword"/>
         <card number="2" name="Ranger's Guile"/>
