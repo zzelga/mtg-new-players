@@ -2,7 +2,7 @@
 
 I've put this together to help introduce some coworkers to the game of Magic: The Gathering.
 
-We will be using 40-card decks in two-color pairings, and playing online using the `Cockatrice` application.
+We will be using 60-card decks in two-color pairings, and playing online using the `Cockatrice` application.
 
 ## Download Cockatrice
 
@@ -23,22 +23,37 @@ You should now see several additional menu tabs show up, including **Server**.
 You will now to able to create and join live game sessions with other players.
 Now we need to load up some deck lists.
 
-## 40-card deck lists
+## 60-card deck lists
 
-This is a collection of several decks that I sourced online from an old Reddit post.
+This is a collection of deck lists that I've sourced from the preconstructed ones available on **Magic: The Gathering Arena**.
 
-- [Blue/Black](https://scryfall.com/@whiskywizard/decks/8834b335-b849-412e-849b-3ebdb060785b?as=visual&with=usd)
-- [Black/Red](https://scryfall.com/@whiskywizard/decks/dd68e29e-80ce-4144-a11a-054f8e8e1035?as=visual&with=usd)
-- [Red/Green](https://scryfall.com/@whiskywizard/decks/488a979c-aa59-4cd7-92bf-9b3d0b5fd25d?as=visual&with=usd)
-- [Green/White](https://scryfall.com/@whiskywizard/decks/26369b2f-d1d5-47f6-abb2-9be1d185a2f2?as=visual&with=usd)
-- [White/Blue](https://scryfall.com/@whiskywizard/decks/cfff0079-2dd5-40d7-b06e-8e283dbe3d67?as=visual&with=usd)
+- [Armed and Dangerous](https://www.moxfield.com/decks/sJaryBHz6kWkFVlvC3jmuA) Red/White
+  - focused on `Equipment`
+- [Avalanche!](https://www.moxfield.com/decks/JpHuMD0ovUymGfyIgPT1aA) Green/Blue
+  - focused on `Snow`
+- [Control Center](https://www.moxfield.com/decks/IgQ4WrG5P0KddVdiEmbsyg) Blue/Black
+  - focused on `Control`
+- [Dungeon Delving](https://www.moxfield.com/decks/6QtrFtxYa0CCMXLXSmGf1w) White/Black
+  - focused on the `Dungeon` mechanic
+- [Fireworks](https://www.moxfield.com/decks/aJseVb9whEeOgoynVV9WCA) Blue/Red
+  - focused on `Spellslinging`
+- [Growing Hunger](https://www.moxfield.com/decks/5ti5nH0Il0GHyXA8bTLw_Q) Black/Green
+  - focused on `Growth`
+- [Lifelife](https://www.moxfield.com/decks/PmUJpCDgUEaD7tnpeWX9rQ) Green/White
+  - focused on `Life gain`
+- [Savage Lands](https://www.moxfield.com/decks/Wt2XjG2POEWheHnrwYAJEQ) Red/Green
+  - focused on the `Landfall` mechanic
+- [Sky Patrol](https://www.moxfield.com/decks/GZj0eXy5WkmLs2bt2NUHlg) White/Blue
+  - focused on the `Foretell` mechanic, and flying creatures
+- [Treasure Hunt](https://www.moxfield.com/decks/cbrlCRjHkkGjz3wSZIZlmg) - Black/Red
+  - focused on `Treasure tokens`
 
-For each of these, the link will take you to a decklist on [Scryfall.com](https://scryfall.com/) where you will be able to view what cards make up the deck.
+For each of these, the link will take you to a decklist on [Moxfield.com](https://moxfield.com/) where you will be able to view what cards make up the deck.
 Each of these has an associated `.cod` file in this repo that is ready for import into the `Cockatrice` application.
 
 ## Import a deck list
 
-For any of the 5 decks linked above, find the associated `.cod` file in this repo and download the file.
+For any of the 10 decks linked above, find the associated `.cod` file in this repo and download the file.
 ie. if you're interested in the [Blue/Black](https://scryfall.com/@whiskywizard/decks/8834b335-b849-412e-849b-3ebdb060785b?as=visual&with=usd) deck list, then download the file `blue-black-starter-deck.cod`
 
 - load up `Cockatrice` if it's not already open
