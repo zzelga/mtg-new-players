@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lifelife - Green/White</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arctic Treeline"/>
+        <card number="1" name="Attended Healer"/>
+        <card number="1" name="Branchloft Pathway"/>
+        <card number="2" name="Celestial Unicorn"/>
+        <card number="2" name="Cleric Class"/>
+        <card number="3" name="Devouring Tendrils"/>
+        <card number="1" name="Drizzt Do'Urden"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="9" name="Forest"/>
+        <card number="2" name="Fortifying Draught"/>
+        <card number="1" name="Icingdeath, Frost Tyrant"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="3" name="Kor Celebrant"/>
+        <card number="2" name="Lurking Roper"/>
+        <card number="1" name="Maja, Bretagard Protector"/>
+        <card number="3" name="Minimus Containment"/>
+        <card number="1" name="Pillardrop Rescuer"/>
+        <card number="10" name="Plains"/>
+        <card number="3" name="Prosperous Innkeeper"/>
+        <card number="1" name="Righteous Valkyrie"/>
+        <card number="2" name="Story Seeker"/>
+        <card number="3" name="Trelasarra, Moon Dancer"/>
+        <card number="1" name="Valkyrie Harbinger"/>
+        <card number="2" name="You Meet in a Tavern"/>
+    </zone>
+</cockatrice_deck>

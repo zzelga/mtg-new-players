@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Savage Lands - Red/Green</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Akoum Hellhound"/>
+        <card number="3" name="Brushfire Elemental"/>
+        <card number="2" name="Bull's Strength"/>
+        <card number="2" name="Choose Your Weapon"/>
+        <card number="1" name="Cragcrown Pathway"/>
+        <card number="4" name="Evolving Wilds"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Froghemoth"/>
+        <card number="4" name="Highland Forest"/>
+        <card number="2" name="Hobgoblin Captain"/>
+        <card number="3" name="Hulking Bugbear"/>
+        <card number="1" name="Inferno of the Star Mounts"/>
+        <card number="1" name="Kazandu Mammoth"/>
+        <card number="9" name="Mountain"/>
+        <card number="3" name="Owlbear"/>
+        <card number="1" name="Phylath, World Sculptor"/>
+        <card number="3" name="Roil Eruption"/>
+        <card number="3" name="Scale the Heights"/>
+        <card number="2" name="Targ Nar, Demon-Fang Gnoll"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="2" name="Vastwood Surge"/>
+        <card number="1" name="Werewolf Pack Leader"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dungeon Delving - White/Black</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Acererak the Archlich"/>
+        <card number="3" name="Barrowin of Clan Undurr"/>
+        <card number="1" name="Brightclimb Pathway"/>
+        <card number="3" name="Cloister Gargoyle"/>
+        <card number="3" name="Closing Statement"/>
+        <card number="2" name="Demonic Gifts"/>
+        <card number="2" name="Gloom Stalker"/>
+        <card number="3" name="Malakir Blood-Priest"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Nullpriest of Oblivion"/>
+        <card number="9" name="Plains"/>
+        <card number="2" name="Precipitous Drop"/>
+        <card number="3" name="Ranger's Hawk"/>
+        <card number="1" name="Silverquill Command"/>
+        <card number="4" name="Snowfield Sinkhole"/>
+        <card number="10" name="Swamp"/>
+        <card number="3" name="Thunderous Orator"/>
+        <card number="1" name="Triumphant Adventurer"/>
+        <card number="1" name="Vanishing Verse"/>
+        <card number="3" name="Veteran Dungeoneer"/>
+        <card number="3" name="Yuan-Ti Fang-Blade"/>
+    </zone>
+</cockatrice_deck>

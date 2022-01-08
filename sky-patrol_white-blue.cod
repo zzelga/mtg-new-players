@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sky Patrol - White/Blue</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Augury Raven"/>
+        <card number="2" name="Behold the Multiverse"/>
+        <card number="1" name="Cosmos Charger"/>
+        <card number="3" name="Dawnbringer Cleric"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Elite Spellbinder"/>
+        <card number="3" name="Expel"/>
+        <card number="4" name="Glacial Floodplain"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Hengegate Pathway"/>
+        <card number="1" name="Iron Verdict"/>
+        <card number="9" name="Island"/>
+        <card number="2" name="Journey to Oblivion"/>
+        <card number="2" name="Karfell Harbinger"/>
+        <card number="1" name="Luminarch Aspirant"/>
+        <card number="11" name="Plains"/>
+        <card number="2" name="Portable Hole"/>
+        <card number="3" name="Saw It Coming"/>
+        <card number="2" name="Shepherd of the Cosmos"/>
+        <card number="1" name="Starnheim Unleashed"/>
+        <card number="3" name="Stonebinder's Familiar"/>
+        <card number="3" name="Vega, the Watcher"/>
+    </zone>
+</cockatrice_deck>

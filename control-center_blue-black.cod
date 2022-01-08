@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Control Center - Blue/Black</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Black Dragon"/>
+        <card number="1" name="Blue Dragon"/>
+        <card number="1" name="Callous Bloodmage"/>
+        <card number="1" name="Clearwater Pathway"/>
+        <card number="2" name="Contact Other Plane"/>
+        <card number="2" name="Curate"/>
+        <card number="1" name="Dragon Turtle"/>
+        <card number="3" name="Elderfang Disciple"/>
+        <card number="3" name="Flunk"/>
+        <card number="1" name="Gelatinous Cube"/>
+        <card number="4" name="Ice Tunnel"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="Iymrith, Desert Doom"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="3" name="Poison the Cup"/>
+        <card number="1" name="Port of Karfell"/>
+        <card number="2" name="Reject"/>
+        <card number="3" name="Skull Raid"/>
+        <card number="10" name="Swamp"/>
+        <card number="3" name="Tazeem Roilmage"/>
+        <card number="1" name="Undersea Invader"/>
+        <card number="2" name="Vampire Spawn"/>
+        <card number="2" name="You Find the Villains' Lair"/>
+    </zone>
+</cockatrice_deck>

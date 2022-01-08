@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Fireworks - Blue/Red</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Aegar, the Freezing Flame"/>
+        <card number="2" name="Air-Cult Elemental"/>
+        <card number="2" name="Arcane Investigator"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Basalt Ravager"/>
+        <card number="1" name="Creative Outburst"/>
+        <card number="1" name="Demilich"/>
+        <card number="3" name="Demon Bolt"/>
+        <card number="2" name="Farideh's Fireball"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="Kaza, Roil Chaser"/>
+        <card number="2" name="Maelstrom Muse"/>
+        <card number="3" name="Mentor's Guidance"/>
+        <card number="1" name="Meteor Swarm"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Multiple Choice"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="3" name="Prismari Pledgemage"/>
+        <card number="1" name="Riverglide Pathway"/>
+        <card number="2" name="Rockslide Sorcerer"/>
+        <card number="2" name="Thundering Rebuke"/>
+        <card number="3" name="Umara Mystic"/>
+        <card number="4" name="Volatile Fjord"/>
+    </zone>
+</cockatrice_deck>

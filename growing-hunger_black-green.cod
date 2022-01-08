@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Growing Hunger - Black/Green</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Big Play"/>
+        <card number="2" name="Binding the Old Gods"/>
+        <card number="1" name="Darkbore Pathway"/>
+        <card number="3" name="Deathknell Berserker"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Exponential Growth"/>
+        <card number="9" name="Forest"/>
+        <card number="1" name="Grakmaw, Skyclave Ravager"/>
+        <card number="2" name="Hagra Constrictor"/>
+        <card number="2" name="Master Symmetrist"/>
+        <card number="3" name="Moss-Pit Skeleton"/>
+        <card number="1" name="Ochre Jelly"/>
+        <card number="1" name="Oran-Rief Ooze"/>
+        <card number="3" name="Power Word Kill"/>
+        <card number="3" name="Promising Duskmage"/>
+        <card number="1" name="Ranger Class"/>
+        <card number="2" name="Snakeskin Veil"/>
+        <card number="3" name="Struggle for Skemfar"/>
+        <card number="10" name="Swamp"/>
+        <card number="3" name="Tenured Inkcaster"/>
+        <card number="1" name="Vastwood Fortification"/>
+        <card number="4" name="Woodland Chasm"/>
+    </zone>
+</cockatrice_deck>
